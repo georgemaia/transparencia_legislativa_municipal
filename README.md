@@ -7,3 +7,5 @@ Iniciativas e aplicações relacionadas a transparência  na âmbito das casas l
 [De olho na câmara - Câmera Municipal de Natal](http://www.deolhonacamara.com/)
 
 [Enquadrados - Câmaras municipais do estado da Paraíba](https://analytics-ufcg.github.io/enquadrados/)
+
+[Raspagem e Analise das Ordens da Câmara (Natal/RN)](https://github.com/gabicavalcante/raspagem-ordens-camara)
