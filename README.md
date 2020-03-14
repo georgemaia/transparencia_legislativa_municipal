@@ -1,6 +1,6 @@
 # Transparência Legislativa Municipal
 
-Iniciativas e aplicações relacionadas a transparência legislativas
+Iniciativas e aplicações relacionadas a transparência  na âmbito das casas legislativas municipais
 
 [Quero Saber AL - Câmara Municipal de Maceió](https://querosaber-al.info/index.html)
 
