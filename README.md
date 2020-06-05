@@ -11,3 +11,7 @@ Iniciativas e aplicações relacionadas a transparência  na âmbito das casas l
 [Raspagem e Analise das Ordens da Câmara (Natal/RN)](https://github.com/gabicavalcante/raspagem-ordens-camara)
 
 [Maria Quitéria (Feira de Santana/BA)](https://github.com/DadosAbertosDeFeira/maria-quiteria) - [Demonstração dos procedimentos no Youtube](https://www.youtube.com/watch?v=kxw4rVChFro)
+
+[WebScraping das despesas da Câmara dos Vereadores de Parnamirim / RN](https://github.com/raimundomarciano/TranspCVParnamirimRN)
+
+[Cota Parlamentar da Câmara Municipal de Natal/RN](https://github.com/dadosabertosrn/cota_parlamentar)
