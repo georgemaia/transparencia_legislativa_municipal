@@ -1,12 +1,14 @@
 # Transparência Legislativa Municipal
 
-Iniciativas e aplicações relacionadas a transparência  na âmbito das casas legislativas municipais
+Iniciativas e aplicações relacionadas a transparência  na âmbito das casas legislativas municipais.
 
-[Quero Saber AL - Câmara Municipal de Maceió/AL](https://querosaber-al.info/index.html)
+[Confúcio - MPRN](https://confucio.gaeco.mprn.mp.br/cm/) - Mapeamento dos portais legislativos municipais do RN
 
-[De olho na câmara - Câmera Municipal de Natal/RN](http://www.deolhonacamara.com/)
+[Quero Saber AL](https://querosaber-al.info/index.html) - Câmara Municipal de Maceió/AL
 
-[Enquadrados - Câmaras municipais do estado da Paraíba](https://analytics-ufcg.github.io/enquadrados/)
+[De olho na câmara](http://www.deolhonacamara.com/) - Câmera Municipal de Natal/RN
+
+[Enquadrados](https://analytics-ufcg.github.io/enquadrados/) - Câmaras municipais do estado da Paraíba
 
 [Raspagem e Analise das Ordens da Câmara (Natal/RN)](https://github.com/gabicavalcante/raspagem-ordens-camara)
 
