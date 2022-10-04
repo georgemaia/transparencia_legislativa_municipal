@@ -17,3 +17,5 @@ Iniciativas e aplicações relacionadas a transparência  na âmbito das casas l
 [WebScraping das despesas da Câmara dos Vereadores de Parnamirim / RN](https://github.com/raimundomarciano/TranspCVParnamirimRN)
 
 [Cota Parlamentar da Câmara Municipal de Natal/RN](https://github.com/dadosabertosrn/cota_parlamentar)
+
+[Avaliação dos Portais da Transparência implantados pelas Câmaras Municipais de Alagoas](https://sistemas.mpal.mp.br/TransparenciaLegislativoMunicipal/)
