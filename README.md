@@ -2,6 +2,8 @@
 
 Iniciativas e aplicações relacionadas a transparência  na âmbito das casas legislativas municipais.
 
+[Portal de Transparência da Câmara Municipal de São Paulo](https://www.saopaulo.sp.leg.br/transparencia/)
+
 [Confúcio - MPRN](https://confucio.gaeco.mprn.mp.br/cm/) - Mapeamento dos portais legislativos municipais do RN
 
 [Quero Saber AL](https://querosaber-al.info/index.html) - Câmara Municipal de Maceió/AL
